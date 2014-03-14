@@ -9,6 +9,3 @@ urlpatterns = patterns('',
                        url(r'^accounts/profile/$', TemplateView.as_view(template_name='profile.html')),
                        url(r'^admin/', include(admin.site.urls)),
 )
-
-
-
