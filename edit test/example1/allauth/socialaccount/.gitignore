@@ -1,0 +1,12 @@
+/__init__.pyc
+/adapter.pyc
+/admin.pyc
+/app_settings.pyc
+/context_processors.pyc
+/fields.pyc
+/forms.pyc
+/helpers.pyc
+/models.pyc
+/signals.pyc
+/urls.pyc
+/views.pyc
